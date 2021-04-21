@@ -18,6 +18,7 @@ const AboutSection = () => {
           </Hide>
           <Hide>
             <motion.h2>true.</motion.h2>
+            {/* treyvon */}
           </Hide>
         </motion.div>
         <p>Contact us for what you want</p>
